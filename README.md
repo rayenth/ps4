@@ -4,4 +4,4 @@ downloding link : https://ollama.com/download
 
 after that you need to download the requirement.txt
 
-write the command pip install -r requirement.txt
+write the command : pip install -r requirement.txt
